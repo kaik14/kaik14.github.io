@@ -5,7 +5,7 @@ const chinese = {
   eyebrow: '个人学术主页', role: '本科生 · 访问学生',
   bio: '我目前就读于<a href="https://www.ukm.my/portalukm/" target="_blank" rel="noopener noreferrer">马来西亚国民大学（UKM）</a>软件工程专业，同时在<strong>西湖大学 TGAI Lab</strong>担任访问学生（Visiting Student）。',
   focus: '我的研究兴趣包括大语言模型安全、多智能体系统、人工智能安全，以及隐私与访问控制。',
-  email: '邮件联系', portraitAlt: '马文恺的个人照片', portraitCaption: 'TGAI Lab · 西湖大学',
+  email: '邮件联系', portraitAlt: '马文恺的个人照片',
   researchTitle: '研究兴趣', interest1: '大语言模型安全', interest2: '多智能体系统', interest3: '人工智能安全', interest4: '隐私与访问控制',
   publicationsTitle: '学术论文', accepted: '已接收', author: '第一作者',
   backgroundTitle: '经历与教育', current: '目前', visitingTitle: '访问学生', lab: '西湖大学 TGAI Lab',
